@@ -25,7 +25,7 @@ client.on("ready", () => {
   console.log("Bot is ready!");
 });
 
-const TARGET_GROUP_ID = "120363424301333768@g.us";
+const TARGET_GROUP_ID = "120363044760665478@g.us";
 
 async function handleGroupMessage(message) {
   const chat = await message.getChat();
